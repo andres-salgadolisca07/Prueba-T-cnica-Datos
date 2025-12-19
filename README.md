@@ -7,7 +7,7 @@ Se realiza la ejecucion de las dos salidas solicitadas
 
 ## Link repositorio Github
 
-
+  https://github.com/andres-salgadolisca07/Prueba-T-cnica-Datos.git
 
 ## Link Video 
 
